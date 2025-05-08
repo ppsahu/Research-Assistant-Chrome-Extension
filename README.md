@@ -1,4 +1,4 @@
-# 🧠 Research Assistant Chrome Extension
+# 🧠 AI Powered Research Assistant - Chrome Extension
 
 A powerful AI Chrome Extension designed to help you highlight, save, and organize web content for later reference — all with just a few clicks.
 

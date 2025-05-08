@@ -6,7 +6,7 @@ A powerful AI Chrome Extension designed to help you highlight, save, and organiz
 
 🎬 Video Demo -
 
-Link - https://drive.google.com/file/d/13Am1j4LzPoo0bgube--jpELhMd-Zjs1r/view?usp=sharing
+Link - https://drive.google.com/file/d/1q8bvcvKk-K8rlH-A3o-iRHgr6oWKXq1D/view?usp=sharing
 
 ---
 
